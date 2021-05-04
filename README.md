@@ -1,6 +1,4 @@
 ### 컴퓨터 하는 라따뚜이 !
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjunisYun)](https://hits.seeyoufarm.com)
 <!--
 **junisYun/junisYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjunisYun)](https://hits.seeyoufarm.com)
 [![github stats](https://github-readme-stats.vercel.app/api?username=junisYun&show_icons=true&hide_border=true)](https://github.com/junisYun) <p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junisYun&layout=compact)](https://github.com/junisYun) <p>
   
