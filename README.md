@@ -1,4 +1,4 @@
-### 컴퓨터 하는 라따뚜이 
+### 컴퓨터 하는 라따뚜이 https://cdn.icon-icons.com/icons2/1286/PNG/512/95_85282.png
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjunisYun)](https://hits.seeyoufarm.com)
 <!--
 **junisYun/junisYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
