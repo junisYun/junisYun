@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![github stats](https://github-readme-stats.vercel.app/api?username=junisYun&show_icons=true&hide_border=true)](https://github.com/junisYun) </a>
+[![github stats](https://github-readme-stats.vercel.app/api?username=junisYun&show_icons=true&hide_border=true)](https://github.com/junisYun) <p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junisYun&layout=compact)](https://github.com/junisYun)
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
